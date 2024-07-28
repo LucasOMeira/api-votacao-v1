@@ -71,8 +71,8 @@ mvn spring-boot:run
 - Impossível deletar candidato com votos: Não é possível deletar um candidato que já tenha votos registrados.
 - Impossível emitir boletim de urna com sessão ainda aberta: Não é possível gerar o boletim de urna para uma sessão que ainda está aberta.
 
-### Testes 
-## Os testes unitários são escritos usando JUnit e Mockito. Para rodar os testes, use o comando:
+## Testes 
+### Os testes unitários são escritos usando JUnit e Mockito. Para rodar os testes, use o comando:
 mvn test
 
 
